@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "heberqc",
-    "repositoryName": "heberqc.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"heberqc","repositoryName":"heberqc.github.io","branch":"master"},"site":{"title":"Heberqc - Blog","url":"https://heberqc.github.io"},"socialnetwork":{"facebook":"https://www.facebook.com/heberuqc"},"theme":{"name":"Casper","url":"//heberqc.github.io/themes/Casper"}}
